@@ -11,3 +11,21 @@ patch:
         patched: '2019-07-04T00:31:02.109Z'
     - codesandbox > inquirer > lodash:
         patched: '2019-07-04T00:31:02.109Z'
+    - snyk > lodash:
+        patched: '2019-09-25T03:17:11.031Z'
+    - snyk > snyk-nuget-plugin > lodash:
+        patched: '2019-09-25T03:17:11.031Z'
+    - snyk > snyk-nodejs-lockfile-parser > lodash:
+        patched: '2019-09-25T03:17:11.031Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2019-09-25T03:17:11.031Z'
+    - snyk > snyk-config > lodash:
+        patched: '2019-09-25T03:17:11.031Z'
+    - snyk > inquirer > lodash:
+        patched: '2019-09-25T03:17:11.031Z'
+    - snyk > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2019-09-25T03:17:11.031Z'
+    - snyk > snyk-go-plugin > graphlib > lodash:
+        patched: '2019-09-25T03:17:11.031Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-09-25T03:17:11.031Z'
